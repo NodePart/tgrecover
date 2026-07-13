@@ -1,2 +1,2 @@
-TgCrypto==1.2.5
-Telethon>=1.41.0
+annotations==0.0.0
+tgcrypto==1.2.5
